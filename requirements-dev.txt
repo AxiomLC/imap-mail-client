@@ -1,0 +1,2 @@
+imap-tools==1.16.0
+pytest>=8.0

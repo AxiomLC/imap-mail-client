@@ -1,0 +1,10 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "extraPaths": [".", "tests"],
+  "pythonVersion": "3.13",
+  "typeCheckingMode": "basic",
+  "reportMissingImports": "none",
+  "reportUnusedImport": "warning",
+  "reportUnusedVariable": "warning"
+}
